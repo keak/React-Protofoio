@@ -35,7 +35,7 @@ const Sidebar = () => (
       </li>
       <li>
         <a target="_blank" rel="nonreferer" href="https://github.com/keak">
-          <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
+          <FontAwesomeIcon icon={faGithub} color="black" />
         </a>
       </li>
     </ul>
